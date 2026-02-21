@@ -8,6 +8,8 @@ tags:
 ---
 If you like it please think on supporting my job:
 
+<iframe src="assets/games/cat-and-mouse/index.html" height=540 width=960 title="cat and mouse is a game where you drag around platforms in a level to help matt the cat find his home."></iframe>
+
 <a href="https://www.buymeacoffee.com/achacon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ![Theme Logo or Screenshot](https://i.postimg.cc/PqYsQX71/Wind-Write-an-awesome-description-for-your-new-site-here-You-can-edit-this-line-in-config-yml-It.png)
